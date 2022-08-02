@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+﻿#!/usr/bin/python3
 # encoding:utf-8
 import time as t
 from selenium import webdriver
@@ -6,6 +6,8 @@ from openpyxl import load_workbook
 import openpyxl
 from time import sleep
 
+
+# 已修改
 import pywinauto
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
