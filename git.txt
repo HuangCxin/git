@@ -8,3 +8,4 @@ git config user.email “邮箱” 绑定邮箱
 git reset --hard 'commit' /开头   回滚
 git log 查看版本号
 git reflog  版本号
+git branch 分支名称 创建分支
