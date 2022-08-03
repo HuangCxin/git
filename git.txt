@@ -5,3 +5,5 @@ git commit -m '版本' 保存版本
 git log 查看版本
 git config user.name“用户名”绑定用户名
 git config user.email “邮箱” 绑定邮箱
+
+ce
