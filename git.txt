@@ -6,3 +6,4 @@ git log 查看版本
 git config user.name“用户名”绑定用户名
 git config user.email “邮箱” 绑定邮箱
 git reset --hard 'commit' /开头   回滚
+git checkout master/分支名
