@@ -12,3 +12,4 @@ git merge 分支名 合并分支到主干
 git branch 分支名称 创建分支
 git branch -d 分支名 删除bug分支
 
+不知道出了什么问题
